@@ -21,7 +21,6 @@ I realized that the "Game" of Cat and Mouse never ends. It only evolves. I stepp
 ### 📡 The Network
 Connect to the signal. Do not stay in the dark.
 
-* **Communication:** [Telegram Channel](https://t.me/GhostVibesLab) // [Telegram Profile](https://t.me/GhostVibesX)
 * **Vulnerability Disclosure:** [HackerOne](https://hackerone.com/ghostvibesx)
 * **Support The Research:** [Selar](https://selar.com/showlove/ghostvibesx)
 * **Secure Comms:** `0xGhostVibes@proton.me`
